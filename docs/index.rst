@@ -9,7 +9,7 @@ How to Setup TP-Link Router? 📶 A Step-By-Step Guide
 
 Setting up your home Wi-Fi is easier than ever, thanks to TP-Link's user-friendly routers. Whether you're a tech novice or a seasoned user, the TP-Link router setup process is designed to get you online quickly and reliably.
 
-.. image:: contact1.png
+.. image:: setup.png
    :alt: My Project Logo
    :width: 400px
    :align: center
