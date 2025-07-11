@@ -1,3 +1,7 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://tek.chat/">
+
 How to Setup TP-Link Router? 📶 A Step-By-Step Guide
 ============================================
 .
